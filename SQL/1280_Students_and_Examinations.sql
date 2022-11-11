@@ -133,6 +133,7 @@ Alex did not attend any exams.
 John attended the Math exam 1 time, the Physics exam 1 time, and the Programming exam 1 time.
 
 
+
 sOL:
 
 SELECT 
