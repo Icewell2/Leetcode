@@ -1,2 +1,2 @@
 # Leetcode
-Some leetcode practices I wrote
+Some interesting leetcode practices I wrote (only the interesting one)
